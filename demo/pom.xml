@@ -44,6 +44,24 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/personality-insights -->
+<!-- https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/personality-insights -->
+<dependency>
+    <groupId>com.ibm.watson.developer_cloud</groupId>
+    <artifactId>tone-analyzer</artifactId>
+    <version>3.4.0</version>
+</dependency>
+
+<dependency>
+    <groupId>com.google.code.gson</groupId>
+    <artifactId>gson</artifactId>
+    <version>2.6.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+
+		
 	</dependencies>
 
 	<build>
